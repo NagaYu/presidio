@@ -27,3 +27,5 @@ This section collects different resources developed with Presidio.
 | [Presidio GitHub Action](https://github.com/marketplace/actions/presidio-action) | GitHub Action that analyzes text for PII entities with the Presidio framework. |
 
 * Please create a PR if you're interested in adding your tool to this list.
+
+* | [sumi](https://github.com/NagaYu/sumi) | Japanese PII detection - 0.13B CPU token classifier with hard-negative robustness + reversible masking. |
